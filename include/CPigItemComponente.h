@@ -9,7 +9,7 @@ O label é posicionado sempre internamente, mas pode estar alinhado à direita (co
 
 #ifndef _CPIGItemComponente_
 #define _CPIGItemComponente_
-#include "CPigIcone.h"
+#include "CPIGIcone.h"
 
 class CPigItemComponente:public CPigComponente{
 
